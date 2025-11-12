@@ -7,6 +7,10 @@
     "keywords": [
         "n8n-community-node-package"
     ],
+    "private": false,
+    "publishConfig": {
+        "access": "public"
+    },
     "author": {
         "name": "Danilo Luiz Rheinheimer",
         "email": "danilolr@gmail.com"
